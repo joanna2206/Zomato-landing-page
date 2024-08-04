@@ -1,7 +1,5 @@
-#adding file to git hub
-#how are you hi how are you
-this is joanna
+# This is my zomato landing page clone
 
+## Done with first commit.
 
-
-##set up created for our application m
+## Set Up created here for our appln
