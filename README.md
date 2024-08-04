@@ -1,2 +1,2 @@
 adding file to git hub
-how are you
+how are you hi
